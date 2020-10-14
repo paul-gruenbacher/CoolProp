@@ -67,3 +67,4 @@
 /.vscode/
 
 bld/
+install_root
